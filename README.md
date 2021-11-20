@@ -11,4 +11,4 @@ This project demonstrates a simple GET/POST/PUT/DELETE Operation(s) by calling a
     AppRoutingModule,
     HttpClientModule
   ]`
-2. now Inject `HttpClient` in the service (in this case `Main.Service.ts`)
+2. now Inject `HttpClient` in the service (in this case [Main.Service.ts](https://github.com/richrd77/CRUDapi/blob/master/src/app/main.service.ts))
